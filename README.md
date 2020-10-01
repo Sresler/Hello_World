@@ -17,7 +17,7 @@ technology into the industry.
 
 #### **Best investment websites** 
 >This list contains URL's to quickly access useful sites. 
--[Yahoo Finance](https://www.finance.yahoo.com)
+- [Yahoo Finance](https://www.finance.yahoo.com)
 -
 -
 
