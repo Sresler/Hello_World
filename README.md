@@ -16,13 +16,14 @@ field of finacne and investment strategies. This repository will contain useful 
 technology into the industry. 
 
 #### **Best investment websites** 
-- This list contains URL's to quickly access useful sites. 
+>This list contains URL's to quickly access useful sites. 
+-
 -
 -
 
 ##### **_Potential_ Algorithms to try**
->This section contains the potential strategies to try and implement into an algo. 
+This section contains the potential strategies to try and implement into an algo. 
 
 
 ###### ***Interesting articles***
->This section contains many articles that are relevant to algorithmic trading methods. 
+This section contains many articles that are relevant to algorithmic trading methods. 
