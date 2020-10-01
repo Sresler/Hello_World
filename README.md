@@ -12,10 +12,11 @@ to my analytics career.
 
 ### *Coding is the future of finance*
 As technology becomes more advanced, it can be applied to a variety of fields. One field that could benefit endlessly is the 
-field of finacne and investment strategies. This repository will contain useful information 
+field of finacne and investment strategies. This repository will contain useful information to incorprate the increasing 
+technology into the industry. 
 
 #### **Best investment websites** 
--
+- This list contains URL's to quickly access useful sites. 
 -
 -
 
@@ -23,5 +24,5 @@ field of finacne and investment strategies. This repository will contain useful 
 This section contains the potential strategies to try and implement into an algo. 
 
 
-###### Interesting articles 
+###### ***Interesting articles***
 This section contains many articles that are relevant to algorithmic trading methods. 
