@@ -23,8 +23,9 @@ technology into the industry.
 
 ##### **_Potential_ Algorithms to try**
 This section contains the potential strategies to try and implement into an algo. 
+
 {
-  "Stategy 1": "Divedend capture",
+  "Stategy 1": "Dividend capture",
   "Strategy 2": "Vertical spreads",
   "Strategy 3": "Horizontal spreads"
 }
