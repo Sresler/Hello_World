@@ -14,8 +14,7 @@ to my analytics career.
 As technology becomes more advanced, it can be applied to a variety of fields. One field that could benefit endlessly is the 
 field of finacne and investment strategies. This repository will contain useful information 
 
-#### **Best investment websites**
-This section contains links to specifically useful finance sites. 
+#### **Best investment websites** 
 -
 -
 -
