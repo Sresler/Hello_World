@@ -21,8 +21,8 @@ technology into the industry.
 -
 
 ##### **_Potential_ Algorithms to try**
-This section contains the potential strategies to try and implement into an algo. 
+>This section contains the potential strategies to try and implement into an algo. 
 
 
 ###### ***Interesting articles***
-This section contains many articles that are relevant to algorithmic trading methods. 
+>This section contains many articles that are relevant to algorithmic trading methods. 
