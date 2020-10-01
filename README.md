@@ -12,12 +12,12 @@ to my analytics career.
 
 ### *Coding is the future of finance*
 As technology becomes more advanced, it can be applied to a variety of fields. One field that could benefit endlessly is the 
-field of finacne and investment strategies. This repository will contain useful information to incorprate the increasing 
+field of finance and investment strategies. This repository will contain useful information to incorprate the increasing 
 technology into the industry. 
 
 #### **Best investment websites** 
 >This list contains URL's to quickly access useful sites. 
--
+-[Yahoo Finance](https://www.finance.yahoo.com)
 -
 -
 
